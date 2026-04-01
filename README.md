@@ -76,7 +76,7 @@ We _will_ optimize your system when no one asked.
 
 # 🤝 Work With Us
 
-If you're building something interesting —  a startup, SaaS, or internal tool — we’d love to help.
+If you're building something interesting — a startup, SaaS, or internal tool — we’d love to help.
 
 <div align="start">
 
@@ -87,5 +87,5 @@ If you're building something interesting —  a startup, SaaS, or internal tool 
 ---
 
 <div align="center">
-  <sub>⚡ Building fast · scaling smart · shipping real products as <a href="https://x.com/Hey_Aimer">@therisingdevs</a>😊</sub>
+  <sub>⚡ Building fast · scaling smart · shipping real products as <a href="https://x.com/therisingdevs">@therisingdevs</a>😊</sub>
 </div>
