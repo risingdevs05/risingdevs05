@@ -4,7 +4,7 @@
         <a href="https://x.com/therisingdevs" target="blank">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="20" />
         </a>
-        <a href="https://www.linkedin.com/therisingdevs" target="blank">
+        <a href="https://www.linkedin.com/in/therisingdevs" target="blank">
             <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" height="20" />
         </a>
     </p>
