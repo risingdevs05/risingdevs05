@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://media.tenor.com/H-bZyKReARgAAAAi/hello-hello-there.gif" height="200" />
     <p>
-        <a href="https://x.com/therisingdevs" target="blank">
+        <a href="https://x.com/Hey_Arjun_Singh" target="blank">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="20" />
         </a>
         <a href="https://www.linkedin.com/in/therisingdevs" target="blank">
